@@ -1,0 +1,15 @@
+.App{
+  background-color: #fafafa;
+  padding-top: 20px;
+}
+.mapid{
+margin-top: 20px;
+height: 180px; 
+background-color: #fafafa;
+}
+.leaflet-container.leaflet-touch-drag.leaflet-touch-zoom{
+  height: 30vw;
+  width: 95%;
+  margin-left: 2.5%;
+  
+}
